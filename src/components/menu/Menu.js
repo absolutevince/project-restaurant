@@ -6,7 +6,7 @@ import friedChicken from "../../asset/product-images/fried-chicken.jpg";
 
 const items = [
   {
-    name: "Hamb-eyy-gur",
+    name: "Hamb-eyy-rgur",
     price: 4.99,
     description: "A hamburger with lots of cheese",
     imgSrc: cheeseburger,

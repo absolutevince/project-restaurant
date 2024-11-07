@@ -13,8 +13,7 @@ export default (function Home() {
 
   img.src = heroImg;
   img.alt = "Pineapple with sunglasses";
-  paragraph.textContent =
-    "Welcome to the simply coolest restaurant in the world, even the sauce is cool (not literally)";
+  paragraph.textContent = "Aren't we cool?";
 
   leftCont.append(img);
   rightCont.append(paragraph);

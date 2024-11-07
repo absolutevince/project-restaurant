@@ -29,6 +29,13 @@ button {
   padding: 0.5em 1em;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   letter-spacing: inherit;
+  cursor: pointer;
+  border: 1px solid #333;
+}
+
+button:hover {
+  background-color: #436c1a;
+  color: rgb(240, 248, 255);
 }
 
 ul {

@@ -11,5 +11,5 @@ navigate(
   navButtons,
   container,
   [Home.html(), Menu.html(), Contact.html()],
-  Home.html()
+  Contact.html()
 );
