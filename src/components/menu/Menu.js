@@ -26,7 +26,7 @@ const items = [
 ];
 
 export default (function Menu() {
-  const element = document.createElement("div");
+  const element = document.createElement("section");
   const list = document.createElement("ul");
   element.id = "menu";
   list.classList = "menu-list";

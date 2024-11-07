@@ -1,0 +1,24 @@
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color: #3130303d;
+}
+
+.home-left {
+  object-fit: cover;
+  width: 20%;
+}
+
+.home-left img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #555;
+}
+
+.home-right {
+  width: 40%;
+  font-size: 2.5rem;
+  line-height: 4rem;
+}
